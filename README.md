@@ -2,7 +2,7 @@
 
 **Checkout our [blog post about this project here](https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14)**
 
-> **Try out https://lastmileai.dev/ for experimenting with foundation models**
+> **Try out https://lastmileai.co/ for experimenting with foundation models**
 
 ## Introduction
 
